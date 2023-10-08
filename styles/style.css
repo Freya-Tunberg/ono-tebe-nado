@@ -18,12 +18,11 @@
 }
 
 .header__links-list-item_no-bullit {
-  list-style-type:none;
+  list-style-type: none;
 }
 
 .header__links-list-item {
   list-style: circle;
-  
 }
 
 .header__logo-image {
@@ -144,18 +143,17 @@
 
 .lots__card-list {
   display: flex;
-  flex-wrap:wrap;
+  flex-wrap: wrap;
   gap: 25px;
-  }
-  
+}
+
 .lots__card-list-item {
   flex-grow: 1;
   flex-basis: 430px;
   width: 450px;
   height: 430px;
   list-style-type: none;
-  }
-
+}
 
 .card {
   position: relative;
@@ -174,12 +172,12 @@
   display: flex;
   justify-content: center;
   padding: 50px 40px 0;
-  color: #FFF;
+  color: #fff;
   font-weight: 700;
   font-size: 22px;
   font-style: normal;
   line-height: 120%;
-  text-decoration: underline; 
+  text-decoration: underline;
   text-transform: uppercase;
 }
 
@@ -187,7 +185,7 @@
   display: flex;
   align-items: flex-end;
   width: 100%;
-  padding:0 40px 50px;
+  padding: 0 40px 50px;
 }
 
 .card_type_film {
@@ -256,7 +254,7 @@
 
 .about__title {
   grid-column-start: 2;
-  padding:  100px 0 75px 0;
+  padding: 100px 0 75px 0;
   font-weight: 700;
   font-size: 40px;
   font-style: normal;
@@ -277,7 +275,7 @@
   display: flex;
   justify-content: space-between;
   align-items: center;
-  padding: 90px 50px ;
+  padding: 90px 50px;
   text-underline-position: under;
 }
 
@@ -292,7 +290,7 @@
 .footer__social-list {
   display: flex;
   flex-direction: row;
-  justify-content:space-between;
+  justify-content: space-between;
   width: 240px;
   height: 48px;
   list-style-type: none;
@@ -301,7 +299,6 @@
 .footer__social-list-item {
   flex-shrink: 0;
   align-self: auto;
-
 }
 .footer__social-icon {
   width: 48px;
