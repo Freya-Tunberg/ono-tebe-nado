@@ -1,6 +1,7 @@
 .header {
   display: grid;
   grid-template-columns: 1fr min-content 1fr;
+  align-items: center;
   padding: 92px 49px 92px 51px;
   font-weight: 400;
   font-size: 18px;
@@ -84,7 +85,7 @@
 
 .aligned-text_left {
   margin: 0 0 20px 0;
-  padding: 0 50px 0;
+ /* padding: 0 50px 0;*/
   text-align: start;
 }
 
@@ -115,7 +116,7 @@
   font-style: normal;
   line-height: 28px;
   text-transform: uppercase;
-  word-spacing: 20px;
+  word-spacing: 18px;
 }
 
 .bet-button {
