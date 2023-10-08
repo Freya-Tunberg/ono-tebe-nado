@@ -85,19 +85,16 @@
 
 .aligned-text_left {
   margin: 0 0 20px 0;
- /* padding: 0 50px 0;*/
   text-align: start;
 }
 
 .aligned-text_center {
-  margin: 25px 0 0;
-  /*padding: 0 110px 0 50px;*/
+  margin: 23gpx 0 0;
   text-align: center;
 }
 
 .aligned-text_right {
   margin: 20px 0 0;
-  /*padding: 0 0 0 50px;*/
   text-align: right;
 }
 
