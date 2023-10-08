@@ -100,7 +100,7 @@
 .cover__description {
   display: flex;
   justify-content: flex-end;
-  align-items: flex-end;
+  align-items: center;
   gap: 78px;
   padding: 0 50px 50px;
 }
