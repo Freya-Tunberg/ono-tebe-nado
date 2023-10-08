@@ -103,6 +103,7 @@
   align-items: center;
   gap: 78px;
   padding: 0 50px 50px;
+  text-transform: uppercase;
 }
 
 .cover__description-text {
@@ -111,7 +112,6 @@
   font-size: 22px;
   font-style: normal;
   line-height: 28px;
-  text-transform: uppercase;
   word-spacing: 18px;
 }
 
@@ -125,7 +125,6 @@
   font-weight: 400;
   font-size: 22px;
   text-align: center;
-  text-transform: uppercase;
   background-color: transparent;
   white-space: nowrap;
 }
