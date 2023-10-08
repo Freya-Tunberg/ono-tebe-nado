@@ -100,7 +100,7 @@
 .cover__description {
   display: flex;
   justify-content: flex-end;
-  align-items: center;
+  align-items: flex-end;
   gap: 78px;
   padding: 0 50px 50px;
 }
@@ -116,14 +116,18 @@
 }
 
 .bet-button {
+  display: inline-block;
   width: 257px;
   border: 1px solid #fff;
   padding: 12px 32px;
   color: #fff;
+  font-family: Raleway;
   font-weight: 400;
   font-size: 22px;
   text-align: center;
+  text-transform: uppercase;
   background-color: transparent;
+  white-space: nowrap;
 }
 
 .lots {
