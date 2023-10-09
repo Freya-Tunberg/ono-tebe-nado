@@ -125,6 +125,7 @@
   font-weight: 400;
   font-size: 22px;
   text-align: center;
+  text-transform: uppercase;
   background-color: transparent;
   white-space: nowrap;
 }
@@ -152,7 +153,7 @@
 
 .lots__card-list-item {
   flex-grow: 1;
-  flex-basis: 430px;
+  flex-basis: 450px;
   width: 450px;
   height: 430px;
   list-style-type: none;
@@ -303,6 +304,7 @@
   flex-shrink: 0;
   align-self: auto;
 }
+
 .footer__social-icon {
   width: 48px;
   height: 48px;
