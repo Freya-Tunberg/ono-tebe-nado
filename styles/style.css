@@ -230,7 +230,7 @@
 .about {
   display: grid;
   grid-template-columns: repeat(3, 1fr);
-  gap: 25px;
+  gap: 35px;
   padding: 93px 50px 90px;
 }
 
