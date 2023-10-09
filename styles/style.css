@@ -230,6 +230,7 @@
 .about {
   display: grid;
   grid-template-columns: repeat(3, 1fr);
+  gap: 25px;
   padding: 93px 50px 90px;
 }
 
@@ -294,6 +295,7 @@
 }
 
 .footer__menu-list {
+  text-align: center;
   list-style-type: none;
 }
 
