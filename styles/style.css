@@ -56,7 +56,7 @@
 
 .cover__title {
   margin: 0 0 135px;
-  padding: 165px 50px 0;
+  padding: 170px 50px 0;
   color: #fff;
   font-family: Raleway;
   font-weight: 700;
@@ -88,7 +88,7 @@
 }
 
 .aligned-text_center {
-  margin: 30px 0 0;
+  margin: 35px 0 0;
   text-align: center;
 }
 
@@ -218,7 +218,7 @@
 }
 
 .lots__look-more-link {
-  padding: 30px 0 90px 90px;
+  padding: 25px 0 90px 90px;
   color: #000;
   font-weight: 400;
   font-size: 20px;
@@ -230,8 +230,9 @@
 .about {
   display: grid;
   grid-template-columns: repeat(3, 1fr);
-  gap: 35px;
-  padding: 93px 50px 90px;
+  gap: 28px;
+  padding: 80px 50px 140px;
+
 }
 
 .logo__column {
@@ -260,12 +261,11 @@
   display: grid;
   grid-column-start: 2;
   grid-column-end: 4;
-  gap: 25px;
 }
 
 .about__title {
   grid-column-start: 2;
-  padding: 75px 0 75px 0;
+  padding: 105px 0 100px 0;
   font-weight: 700;
   font-size: 40px;
   font-style: normal;
