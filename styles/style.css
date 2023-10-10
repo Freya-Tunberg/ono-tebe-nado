@@ -231,7 +231,7 @@
   display: grid;
   grid-template-columns: repeat(3, 1fr);
   gap: 28px;
-  padding: 80px 50px 140px;
+  padding: 80px 50px 90px;
 
 }
 
@@ -274,8 +274,9 @@
 }
 
 .about__text {
+  display: flex;
+  flex-direction: column;
   grid-column-start: 2;
-  grid-column-end: 4;
   gap: 25px;
   font-weight: 400;
   font-size: 20px;
