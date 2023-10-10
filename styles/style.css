@@ -276,6 +276,7 @@
 .about__text {
   grid-column-start: 2;
   grid-column-end: 4;
+  gap: 25px;
   font-weight: 400;
   font-size: 20px;
   font-style: normal;
