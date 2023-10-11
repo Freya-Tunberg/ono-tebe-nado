@@ -224,7 +224,7 @@
 }
 
 .lots__look-more-link {
-  padding: 20px 0 90px 90px;
+  padding: 2px 0 90px 90px;
   color: #000;
   font-weight: 400;
   font-size: 20px;
@@ -236,6 +236,7 @@
 .about {
   display: grid;
   grid-template-columns: repeat(3, 1fr);
+  justify-items: center;
   gap: 28px;
   padding: 90px 50px 90px;
 }
