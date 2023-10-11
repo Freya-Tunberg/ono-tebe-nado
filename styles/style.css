@@ -300,8 +300,12 @@
   max-width: 240px;
 }
 
+.footer__menu {
+  word-spacing: o;
+}
+
 .footer__menu-list {
-  /*text-align: center;*/
+  text-align: center;
   list-style-type: none;
 }
 
