@@ -134,7 +134,6 @@
 .lots {
   padding: 180px 50px 30px 50px;
   color: #fff;
-  /*мб подкоректровать падднг*/
 }
 
 .lots__heading {
@@ -220,7 +219,7 @@
 }
 
 .lots__look-more-link {
-  padding: 25px 0 90px 90px;
+  padding: 20px 0 90px 90px;
   color: #000;
   font-weight: 400;
   font-size: 20px;
