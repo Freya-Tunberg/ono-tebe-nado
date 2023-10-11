@@ -115,7 +115,7 @@
   word-spacing: 18px;
 }
 
-.bet-button {
+.button {
   display: inline-block;
   width: 257px;
   border: 1px solid #fff;
@@ -128,6 +128,10 @@
   text-transform: uppercase;
   background-color: transparent;
   white-space: nowrap;
+}
+
+.bet-button {
+  text-decoration: none;
 }
 
 .lots {
@@ -298,10 +302,6 @@
 
 .footer__address {
   max-width: 240px;
-}
-
-.footer__menu {
-  word-spacing: o;
 }
 
 .footer__menu-list {
