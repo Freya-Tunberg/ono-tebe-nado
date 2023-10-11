@@ -9,7 +9,7 @@
   line-height: normal;
 }
 
-.header__link{
+.header__link {
   text-decoration: none;
 }
 
@@ -309,7 +309,7 @@
   font-weight: 400;
   font-size: 18px;
   font-style: normal;
-  line-height: 24.3px; 
+  line-height: 24.3px;
 }
 
 .footer__menu-list {
@@ -329,7 +329,7 @@
   align-self: auto;
 }
 
-.footer__menu-link{
+.footer__menu-link {
   text-decoration: none;
 }
 
