@@ -293,7 +293,7 @@
 .footer {
   display: flex;
   justify-content: space-between;
-  padding: 90px 10px 0 50px;
+  padding: 90px 10px 50px 50px;
   color: #000;
   font-family: Raleway, sans-serif;
   font-weight: 400;
@@ -328,7 +328,7 @@
 .footer__social-list-item {
   flex-shrink: 0;
   align-self: auto;
-  margin-right: 26px;
+  margin-right: 35px;
 }
 
 .footer__menu-link {
