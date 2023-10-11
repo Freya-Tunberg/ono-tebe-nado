@@ -293,7 +293,7 @@
   font-size: 18px;
   font-style: normal;
   line-height: 24.3px;
-  /*text-underline-position: under;*/
+  text-underline-position: under;
 }
 
 .footer__address {
@@ -301,7 +301,7 @@
 }
 
 .footer__menu-list {
-  text-align: center;
+  /*text-align: center;*/
   list-style-type: none;
 }
 
