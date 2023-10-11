@@ -104,7 +104,6 @@
   gap: 78px;
   padding: 0 50px 50px;
   text-transform: uppercase;
-  /*мб падднг поменьше*/
 }
 
 .cover__description-text {
@@ -233,7 +232,6 @@
   grid-template-columns: repeat(3, 1fr);
   gap: 28px;
   padding: 90px 50px 90px;
-
 }
 
 .logo__column {
@@ -288,7 +286,6 @@
 .footer {
   display: flex;
   justify-content: space-between;
-  /*align-items: center;*/
   padding: 90px 50px;
   color: #000;
   font-family: Raleway;
@@ -296,7 +293,7 @@
   font-size: 18px;
   font-style: normal;
   line-height: 24.3px;
-  text-underline-position: under;
+  /*text-underline-position: under;*/
 }
 
 .footer__address {
