@@ -140,7 +140,7 @@
 }
 
 .lots {
-  padding: 180px 50px 30px 50px;
+  padding: 180px 50px 90px 50px;
   color: #fff;
 }
 
@@ -158,6 +158,7 @@
   display: flex;
   flex-wrap: wrap;
   gap: 25px;
+  padding-bottom: 30px;
 }
 
 .lots__card-list-item {
@@ -224,7 +225,7 @@
 }
 
 .lots__look-more-link {
-  padding: 2px 0 90px 90px;
+  padding-left: 40px;
   color: #000;
   font-weight: 400;
   font-size: 20px;
